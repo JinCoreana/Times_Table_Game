@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@700&family=Permanent+Marker&display=swap');
+
+#root {
+    background-color: rgb(33, 95, 22);
+    padding-bottom:4rem;
+    padding-left: 5rem;;
+    margin:1rem;
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    border-top-left-radius: 255px 15px;
+    border-top-right-radius: 15px 225px;
+    border-bottom-right-radius: 225px 15px;
+    border-bottom-left-radius:15px 255px;
+    border:solid 3px #350901;}
+
+    h1 {
+        font-family:'Permanent Marker', cursive;
+        font-weight: 500;
+        color:white;
+        font-size: 3rem;
+    }
+
+    input {
+        border-radius: 0.3rem;
+    }
+
+    button {
+        border-radius: 0.2rem;
+        padding: 0.1rem;
+
+        cursor: pointer;
+        text-align: center;
+        color: #fff;
+        background-color: transparent;
+        border: solid 0.1rem;
+        border-top-left-radius: 255px 15px;
+        border-top-right-radius: 15px 225px;
+        border-bottom-right-radius: 225px 15px;
+        border-bottom-left-radius:15px 255px;
+    
+      }
+    
+.summary{
+    padding-top: 1rem;
+    font-size: 1rem;
+    font-family:'Permanent Marker', cursive;
+        font-weight: 500;
+    color:white;
+}
