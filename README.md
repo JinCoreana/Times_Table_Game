@@ -13,4 +13,4 @@ A simple times table game component using HTML,CSS and React.
 
 ## Image
 
-https://lh3.googleusercontent.com/-yXFfF7mh-bE/YeCRQOT97ZI/AAAAAAAAAMc/-yha8wOC-oMQM_s8fgR96sU8rN94achYgCNcBGAsYHQ/h120/times%2Btable.JPG
+<img scr="https://user-images.githubusercontent.com/90848080/149475617-dd685385-f620-450a-a9ff-1d3802a9df0e.JPG">
